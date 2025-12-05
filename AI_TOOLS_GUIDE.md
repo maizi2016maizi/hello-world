@@ -12,11 +12,11 @@ Gemini是Google开发的大型语言模型AI助手，类似于ChatGPT。
 - **Gemini Advanced (付费版)**: 这是高级订阅服务，提供更强大的功能
 - **GPT-3.5/GPT-4**: 
   - GPT-3.5是免费的（通过ChatGPT）
-  - GPT-4和GPT-4o需要ChatGPT Plus订阅（每月$20美元）
+  - GPT-4和GPT-4o需要ChatGPT Plus订阅（每月$20）
 
 #### 在GitHub上使用AI工具：
 您当前正在使用的是 **GitHub Copilot**，它是GitHub的AI编程助手：
-- GitHub Copilot Individual: 付费订阅（每月$10美元）
+- GitHub Copilot Individual: 付费订阅（每月$10）
 - 学生和开源维护者可以免费使用
 - 企业版本也可用
 
