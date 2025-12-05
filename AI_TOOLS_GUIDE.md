@@ -113,8 +113,8 @@ You are currently using **GitHub Copilot**, which is GitHub's AI programming ass
 | 工具/Tool | 免费版/Free | 付费版/Paid | 最适合/Best For |
 |-----------|------------|------------|----------------|
 | Gemini | ✅ | ✅ Advanced | 通用对话、搜索/General chat, Search |
-| ChatGPT | ✅ GPT-3.5 | ✅ Plus ($20/月) | 通用对话、写作/General chat, Writing |
-| GitHub Copilot | ❌ | ✅ ($10/月) | 编程辅助/Coding assistance |
+| ChatGPT | ✅ GPT-3.5 | ✅ Plus ($20/mo) | 通用对话、写作/General chat, Writing |
+| GitHub Copilot | ❌ | ✅ ($10/mo) | 编程辅助/Coding assistance |
 | Claude | ✅ | ✅ Pro | 长文本分析/Long text analysis |
 
 ## 资源链接 / Resource Links
